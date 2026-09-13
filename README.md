@@ -1,6 +1,6 @@
 # Hybrid Movie Recommendation System
 
-This repository contains the project developed for the course **Numerical Analysis for Machine Learning** (NAML), taught by **Prof. Edie Miglio** at **Politecnico di Milano** (Academic Year 2024-2025). The project received **full marks**.
+This repository contains the project developed for the course **Numerical Analysis for Machine Learning** (NAML), taught by **Prof. Edie Miglio** at **Politecnico di Milano** (A.Y. 2024-2025). The project received **full marks**.
 
 ## Authors
 * Simone Mauro
